@@ -1,0 +1,73 @@
+.bet {
+    background: linear-gradient(60deg, #FFFFFF 0%,
+            #d0d0d0 50%);
+    overflow: hidden;
+    min-height: 100vh;
+}
+
+
+.bet-display-container {
+    width: 100%;
+    max-width: 600px;
+    border: 2px solid #d0d0d0;
+    box-shadow: 0px 0px 8px #48484ba6;
+}
+
+.connect-wallet .login-button {
+    color: #ffffff;
+    width: 300px;
+    max-width: 400px;
+    background: linear-gradient(180deg, #48484b 0%, #555557 100%);
+    border: 3px solid #6b7280;
+}
+
+.connect-wallet .login-button:hover {
+    color: #ffffff;
+    background: linear-gradient(180deg, #818183 0%, #48484b 100%);
+}
+
+.bet-title{
+    font-family: "Mona-Sans";
+    font-size: 50px !important;
+}
+
+.bet-image{
+    width: 100%;
+    border: 1px solid;
+    border-image: linear-gradient(to right, #9945FF, #14F195);
+    border-image-slice: 1;
+}
+
+.options-button{
+    background: linear-gradient(180deg, #48484b 0%, #555557 100%) ;
+    padding: 10px 20px;
+    border: 0 !important; 
+}
+
+
+.actions-bet-buttons{
+    background: linear-gradient(180deg, #48484b 0%, #555557 100%) !important;
+    padding: 15px;
+    width: 100%;
+    border: 0 !important; 
+}
+
+.withdrawal-funds-submit{
+    color: #ffffff;
+    width: 100%;
+    background: linear-gradient(180deg, #48484b 0%, #555557 100%);
+    border: 3px solid #6b7280; 
+}
+
+.options-button:hover,
+.actions-bet-buttons:hover,
+.withdrawal-funds-submit:hover{
+    color: #ffffff;
+    background: linear-gradient(180deg, #818183 0%, #48484b 100%) !important;
+}
+
+
+.options-button.active {
+    border: 2px solid #14F195 !important;
+    color: white;
+  }

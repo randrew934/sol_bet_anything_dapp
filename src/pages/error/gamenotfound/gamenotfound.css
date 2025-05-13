@@ -1,0 +1,12 @@
+.gnf {
+    background: linear-gradient(60deg, #FFFFFF 0%,
+            #d0d0d0 50%);
+    overflow: hidden;
+    min-height: 100vh;
+}
+
+
+.gnf-heading {
+    font-family: "Mona-Sans";
+    font-size: 50px !important;
+}
