@@ -1,4 +1,4 @@
-# PREDICTION MARKETS
+# 🕹️ PREDICTION MARKETS
 
 In 2024, Polymarket saw record numbers. The trading volume, number of active traders, and open interest have all hit all-time highs. For instance, November alone saw a whopping $2.63 billion in trading volume all thanks to the US General Election. 
 
@@ -10,11 +10,11 @@ So there's room for growth and a market fit for Prediction Markets in the Crypto
 
 ---
 
-# SOL BET ANYTHING
+# 🎲 SOL BET ANYTHING
 
 This is what makes SOL BET ANYTHING stand out. It's focused on making betting/gambling easier and fun while still remaining on-chain and decentralized. 
 
-[landingpage Image]
+![Sol Bet Anything - Google Chrome 5_9_2025 10_44_52 AM](https://github.com/user-attachments/assets/c16d53dd-874f-4fe0-bb1a-2b355b466062)
 
 It's your games. It's your rules.
 
@@ -24,11 +24,16 @@ For example, you can bet on the weather. You can bet on someone being able to lo
 
 This wonderful experiment is fully onchain(no external DBs) and thanks to our integration with Civic Auth, you get to keep all the relevant information you need in your mail. No dashboards. That way, the left hand can’t really see what the right hand is doing without of course, a blockchain explorer.
 
+![Sol Bet Anything - Google Chrome 5_10_2025 1_16_36 PM](https://github.com/user-attachments/assets/f637032d-346c-4995-acff-c09181cd812a)
+
+
 [SBA WEBSITE] [SBA PROGRAM] 
 
 ---
 
-# SOL BET ANYTHING AND CIVIC AUTH
+# 🫱🏾‍🫲🏾 SOL BET ANYTHING AND CIVIC AUTH
+
+![WIACT AUDIO EVENT (22)](https://github.com/user-attachments/assets/f669f416-5c8e-41a7-af21-a2f82b107343)
 
 Civic Auth makes onboarding easy, secure, and developer-friendly. They help you connect with users on their terms while verifying identity on yours, creating a trusted digital experience, seamless onboarding and authentication for everyone.
 
@@ -36,23 +41,25 @@ Civic Auth makes onboarding easy, secure, and developer-friendly. They help you 
 
 ---
 
-# WHY CIVIC AUTH?
+# 🔎 WHY CIVIC AUTH?
 
-You don't have to worry about creating a wallet, saving your keys, or connecting your main wallet to a phishing site, or creating multiple wallets thanks to the embedded wallet feature. All you need is your Google mail. This makes our product easy to use and safe for people new to crypto, and also for the experienced folks.
+![Sol Bet Anything - Google Chrome 5_13_2025 4_48_10 PM](https://github.com/user-attachments/assets/e23f892a-8a81-4008-aefe-b90a01f3972d)
 
-Civic Auth also handles the 2FA. For every transaction that will take your funds, you have to validate the transaction with your mail. You can choose to allow or cancel the transaction. And you receive a verification code to your mail, which has the current location of the account user.
+✅ You don't have to worry about creating a wallet, saving your keys, or connecting your main wallet to a phishing site, or creating multiple wallets thanks to the embedded wallet feature. All you need is your Google mail. This makes our product easy to use and safe for people new to crypto, and also for the experienced folks.
+
+✅ Civic Auth also handles the 2FA. For every transaction that will take your funds, you have to validate the transaction with your mail. You can choose to allow or cancel the transaction. And you receive a verification code to your mail, which has the current location of the account user.
 
 So we don’t need another Auth, and you don’t have to worry about your wallet being compromised at some point. You might not hold the private keys, but you still hold the key that matters, which is access to your funds.
 
-You don't have to go through the trouble of double verification(wallet and mail), and we don't have to worry about keeping your data. You can receive links to your game in your mail. That way, we can be fully onchain while still making the process easier for you, thanks to a mailing service and the mail feature made available with Civic Auth.
+✅ You don't have to go through the trouble of double verification(wallet and mail), and we don't have to worry about keeping your data. You can receive links to your game in your mail. That way, we can be fully onchain while still making the process easier for you, thanks to a mailing service and the mail feature made available with Civic Auth.
 
-CIvic Auth is compatible with the Solana Wallet Adapter, which means you could inject Civic Wallet provider and opt for the Solana Wallet Modal View rather than Civic Sign in Button. 
+✅ Civic Auth is compatible with the Solana Wallet Adapter, which means you could inject Civic Wallet provider and opt for the Solana Wallet Modal View rather than Civic Sign in Button. 
 
 We didn't want to go through the stress of singling out Civic Wallet, because we had no reason to use any other wallet such as Phantom, Solflare, Backpack and the others available. But it's amazing to know that the feature is available just in case there's a change in the project direction
 
-All you need is an onramp and offramp solution to fund and withdraw your wins as seen in most online gambling casinos. And we are working on our end to partner with/integrate a few to make the process even easier for you.
+✅ All you need is an onramp and offramp solution to fund and withdraw your wins as seen in most online gambling casinos. And we are working on our end to partner with/integrate a few to make the process even easier for you.
 
-Civic gives us the room to explore other methods of messaging in the future, such as Facebook and Twitter. As we do want to make the process of creating games and playing as seamless as possible.
+✅ Civic gives us the room to explore other methods of messaging in the future, such as Facebook and Twitter. As we do want to make the process of creating games and playing as seamless as possible.
 
 [CIVIC DOCS]
 
