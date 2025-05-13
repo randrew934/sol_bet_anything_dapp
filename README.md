@@ -25,7 +25,7 @@ This wonderful experiment is fully onchain(no external DBs) and thanks to our in
 ![Sol Bet Anything - Google Chrome 5_10_2025 1_16_36 PM](https://github.com/user-attachments/assets/f637032d-346c-4995-acff-c09181cd812a)
 
 
-[SBA WEBSITE] [SBA PROGRAM] 
+[SBA WEBSITE](https://solbetanything.netlify.app/) | [SBA PROGRAM](https://github.com/randrew934/sol_bet_anything) 
 
 ---
 
@@ -62,7 +62,12 @@ So we don’t need another Auth, and you don’t have to worry about your wallet
 
 ✅ Civic gives us the room to explore other methods of messaging in the future, such as Facebook and Twitter. As we do want to make the process of creating games and playing as seamless as possible.
 
-[CIVIC DOCS]
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/136ac931-f1c8-488b-b3db-0e4a2bcf2df9" alt="Image 1" width="500" />
+  <img src="https://github.com/user-attachments/assets/1261338c-97a6-4008-b91b-20c704ece3c9" alt="Image 2" width="500"/>
+</p>
+
+[Civic Docs](https://docs.civic.com/auth) | [Civic Dashboard](https://auth.civic.com/dashboard)
 
 
 
