@@ -62,12 +62,27 @@ So we don’t need another Auth, and you don’t have to worry about your wallet
 
 ✅ Civic gives us the room to explore other methods of messaging in the future, such as Facebook and Twitter. As we do want to make the process of creating games and playing as seamless as possible.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/136ac931-f1c8-488b-b3db-0e4a2bcf2df9" alt="Image 1" width="500" />
-  <img src="https://github.com/user-attachments/assets/1261338c-97a6-4008-b91b-20c704ece3c9" alt="Image 2" width="500"/>
-</p>
-
 [Civic Docs](https://docs.civic.com/auth) | [Civic Dashboard](https://auth.civic.com/dashboard)
+
+<br />
+
+## 🖥️ Civic Auth Implementation Examples
+
+#### Implementation in the Solana Context.
+
+<br />
+
+<img src="https://github.com/user-attachments/assets/136ac931-f1c8-488b-b3db-0e4a2bcf2df9" alt="Image 1"  />
+
+#### Implementation in the Create Game Page.
+
+<br />
+
+<img src="https://github.com/user-attachments/assets/1261338c-97a6-4008-b91b-20c704ece3c9" alt="Image 2" />
+
+<br />
+
+
 
 
 
