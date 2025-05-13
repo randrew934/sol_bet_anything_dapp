@@ -35,6 +35,10 @@ This wonderful experiment is fully onchain(no external DBs) and thanks to our in
 
 Civic Auth makes onboarding easy, secure, and developer-friendly. They help you connect with users on their terms while verifying identity on yours, creating a trusted digital experience, seamless onboarding and authentication for everyone.
 
+If you want to see a live preview of the app. Click on the link below.
+
+P.S. Sol Bet Anything is still in development, so you need devnet SOL to use the application. Also, some features are currently unavailable and will be released pretty soon.
+
 [SBA VIDEO ABOUT CIVIC AUTH INTEGRATION]
 
 ---
