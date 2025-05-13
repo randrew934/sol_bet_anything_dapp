@@ -6,8 +6,6 @@ In contrast, according to the report of ICODA, the online gambling industry has 
 
 So there's room for growth and a market fit for Prediction Markets in the Crypto industry. But they must have to deal with issues of security, complexities of the technology which affects user experience, and a list of other problems.
 
-[images]
-
 ---
 
 # 🎲 SOL BET ANYTHING
@@ -47,15 +45,18 @@ Civic Auth makes onboarding easy, secure, and developer-friendly. They help you 
 
 ✅ You don't have to worry about creating a wallet, saving your keys, or connecting your main wallet to a phishing site, or creating multiple wallets thanks to the embedded wallet feature. All you need is your Google mail. This makes our product easy to use and safe for people new to crypto, and also for the experienced folks.
 
-✅ Civic Auth also handles the 2FA. For every transaction that will take your funds, you have to validate the transaction with your mail. You can choose to allow or cancel the transaction. And you receive a verification code to your mail, which has the current location of the account user.
-
-So we don’t need another Auth, and you don’t have to worry about your wallet being compromised at some point. You might not hold the private keys, but you still hold the key that matters, which is access to your funds.
-
 ✅ You don't have to go through the trouble of double verification(wallet and mail), and we don't have to worry about keeping your data. You can receive links to your game in your mail. That way, we can be fully onchain while still making the process easier for you, thanks to a mailing service and the mail feature made available with Civic Auth.
 
 ✅ Civic Auth is compatible with the Solana Wallet Adapter, which means you could inject Civic Wallet provider and opt for the Solana Wallet Modal View rather than Civic Sign in Button. 
 
 We didn't want to go through the stress of singling out Civic Wallet, because we had no reason to use any other wallet such as Phantom, Solflare, Backpack and the others available. But it's amazing to know that the feature is available just in case there's a change in the project direction
+
+![Sol Bet Anything - Google Chrome 5_13_2025 5_01_05 PM](https://github.com/user-attachments/assets/98dfa1a2-47dc-4b51-b9be-e94076319dda)
+
+
+✅ Civic Auth also handles the 2FA. For every transaction that will take your funds, you have to validate the transaction with your mail. You can choose to allow or cancel the transaction. And you receive a verification code to your mail, which has the current location of the account user.
+
+So we don’t need another Auth, and you don’t have to worry about your wallet being compromised at some point. You might not hold the private keys, but you still hold the key that matters, which is access to your funds.
 
 ✅ All you need is an onramp and offramp solution to fund and withdraw your wins as seen in most online gambling casinos. And we are working on our end to partner with/integrate a few to make the process even easier for you.
 
