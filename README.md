@@ -1,46 +1,62 @@
-# Getting Started with Create React App
+# PREDICTION MARKETS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In 2024, Polymarket saw record numbers. The trading volume, number of active traders, and open interest have all hit all-time highs. For instance, November alone saw a whopping $2.63 billion in trading volume all thanks to the US General Election. 
 
-## Available Scripts
+In contrast, according to the report of ICODA, the online gambling industry has experienced a tectonic shift in recent years. The global market reached a respectable value of $37 billion before the pandemic. Nonetheless, the industry experienced a dramatic rush in popularity during the pandemic. By 2024, it slings its worth to over $70 billion. At an impressive pace, this upward trajectory is expected to continue. By 2030, analysts project the market to reach $150 billion. 
 
-In the project directory, you can run:
+So there's room for growth and a market fit for Prediction Markets in the Crypto industry. But they must have to deal with issues of security, complexities of the technology which affects user experience, and a list of other problems.
 
-### `yarn start`
+[images]
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# SOL BET ANYTHING
 
-### `yarn test`
+This is what makes SOL BET ANYTHING stand out. It's focused on making betting/gambling easier and fun while still remaining on-chain and decentralized. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[landingpage Image]
 
-### `yarn build`
+It's your games. It's your rules.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+You get to create games or bet anything from Sports games to Event forecasts to X(Twitter) Banters, and play with your friends, fans, followers or community. All you need is Solana.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+For example, you can bet on the weather. You can bet on someone being able to lose weight. You can bet on a local race/sports games.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This wonderful experiment is fully onchain(no external DBs) and thanks to our integration with Civic Auth, you get to keep all the relevant information you need in your mail. No dashboards. That way, the left hand can’t really see what the right hand is doing without of course, a blockchain explorer.
 
-### `yarn eject`
+[SBA WEBSITE] [SBA PROGRAM] 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# SOL BET ANYTHING AND CIVIC AUTH
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Civic Auth makes onboarding easy, secure, and developer-friendly. They help you connect with users on their terms while verifying identity on yours, creating a trusted digital experience, seamless onboarding and authentication for everyone.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[SBA VIDEO ABOUT CIVIC AUTH INTEGRATION]
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# WHY CIVIC AUTH?
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+You don't have to worry about creating a wallet, saving your keys, or connecting your main wallet to a phishing site, or creating multiple wallets thanks to the embedded wallet feature. All you need is your Google mail. This makes our product easy to use and safe for people new to crypto, and also for the experienced folks.
+
+Civic Auth also handles the 2FA. For every transaction that will take your funds, you have to validate the transaction with your mail. You can choose to allow or cancel the transaction. And you receive a verification code to your mail, which has the current location of the account user.
+
+So we don’t need another Auth, and you don’t have to worry about your wallet being compromised at some point. You might not hold the private keys, but you still hold the key that matters, which is access to your funds.
+
+You don't have to go through the trouble of double verification(wallet and mail), and we don't have to worry about keeping your data. You can receive links to your game in your mail. That way, we can be fully onchain while still making the process easier for you, thanks to a mailing service and the mail feature made available with Civic Auth.
+
+CIvic Auth is compatible with the Solana Wallet Adapter, which means you could inject Civic Wallet provider and opt for the Solana Wallet Modal View rather than Civic Sign in Button. 
+
+We didn't want to go through the stress of singling out Civic Wallet, because we had no reason to use any other wallet such as Phantom, Solflare, Backpack and the others available. But it's amazing to know that the feature is available just in case there's a change in the project direction
+
+All you need is an onramp and offramp solution to fund and withdraw your wins as seen in most online gambling casinos. And we are working on our end to partner with/integrate a few to make the process even easier for you.
+
+Civic gives us the room to explore other methods of messaging in the future, such as Facebook and Twitter. As we do want to make the process of creating games and playing as seamless as possible.
+
+[CIVIC DOCS]
+
+
+
+
+
