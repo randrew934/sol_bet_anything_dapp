@@ -471,7 +471,7 @@ https://explorer.solana.com/tx/${signature}?cluster=devnet`);
                   <strong>Bet Game Option:</strong> {selectedOption}
                 </div>
 
-                <div className="bet-key mb-4 text-center text-muted">
+                <div className="bet-key mb-4 text-center text-muted text-break">
                   <strong>Link:</strong>{" "}
                   <a
                     href={betGameLink}
