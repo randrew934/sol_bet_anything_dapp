@@ -39,7 +39,7 @@ If you want to see a live preview of the app. Click on the link below.
 
 P.S. Sol Bet Anything is still in development, so you need devnet SOL to use the application. Also, some features are currently unavailable and will be released pretty soon. It’s also not optimized for smaller devices. 
 
-[SBA VIDEO ABOUT CIVIC AUTH INTEGRATION]
+[SBA VIDEO ABOUT CIVIC AUTH INTEGRATION](https://x.com/RalAndrewTalks/status/1922652681459368217)
 
 ---
 
