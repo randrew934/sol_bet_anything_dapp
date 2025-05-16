@@ -1,3 +1,7 @@
+### Note: Relevant links for every section are at the end of the section.
+
+---
+
 # 🕹️ PREDICTION MARKETS
 
 In 2024, Polymarket saw record numbers. The trading volume, number of active traders, and open interest have all hit all-time highs. For instance, November alone saw a whopping $2.63 billion in trading volume all thanks to the US General Election. 
