@@ -47,7 +47,7 @@ P.S. Sol Bet Anything is still in development, so you need devnet SOL to use the
 
 ![Sol Bet Anything - Google Chrome 5_13_2025 4_48_10 PM](https://github.com/user-attachments/assets/e23f892a-8a81-4008-aefe-b90a01f3972d)
 
-✅ You don't have to worry about creating a wallet, saving your keys, or connecting your main wallet to a phishing site, or creating multiple wallets thanks to the embedded wallet feature. All you need is your Google mail. This makes our product easy to use and safe for people new to crypto, and also for the experienced folks.
+✅ You don't have to worry about creating a wallet, saving your keys, or connecting your main wallet to a phishing site, or creating multiple wallets thanks to the embedded wallet feature. All you need is your Google mail. This makes our product easy to use and safe for people new to crypto, and also for the experienced folks. So, no more boring 3-day lecture on Crypto best practices filled with Blockchain jargons, just because you want to do a simple task that shouldn't take you 3 minutes.
 
 ✅ You don't have to go through the trouble of double verification(wallet and mail), and we don't have to worry about keeping your data. You can receive links to your game in your mail. That way, we can be fully onchain while still making the process easier for you, thanks to a mailing service and the mail feature made available with Civic Auth.
 
@@ -86,9 +86,33 @@ So we don’t need another Auth, and you don’t have to worry about your wallet
 
 <br />
 
+#### One of the ideas that we were exploring. And that was giving the User a chance at using their wallet if they had one, before opting for a more cohesive process for everyone.
+
+![GqwBkVSXcAAp3th](https://github.com/user-attachments/assets/84fbc347-c648-47d8-bffc-a2ecbeb03ed8)
+
+<br />
+
+---
+
+# 📔 SOL BET ANYTHING GUIDE FOR PLAYERS
 
 
+![Sol Bet Anything - Google Chrome 5_13_2025 5_01_05 PM](https://github.com/user-attachments/assets/10dc450d-d01a-43c8-a763-87db12a37274)
 
+<br />
 
+👉 Sign in with the Civic Button. You will receive a wallet address and you can also view the balance.
+
+👉 Fund your wallet with devnet SOL.
+
+👉 Create a game(If you do want to) or you can copy a game link someone shared and go straight to placing your bets.
+
+👉 If you are creating a game, you need access to your mail, because you will receive a verification code as a first-time user or if you have not used the DApp recently.
+
+👉 Verify your transaction and receive your created game link on the page and in your mail(thanks to Civic Auth mail feature). You can also click on the tx link(Transaction Link) to confirm your transaction/game created on chain with a blockchain explorer.
+
+👉 Share the link with your friends, fans, followers and community and have fun placing bets. The bet information is also sent to your mail. And every account is allowed only one bet. You can also view this bet information on chain.
+
+More features such as submitting proofs, having a judge of your choice, and withdrawing bet winnings will be made available soon. Till then. Do have fun creating games and placing bet in the new beautiful world of Prediction Markets brought to you by Sol Bet Anything and Civic Auth
 
 
