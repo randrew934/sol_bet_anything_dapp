@@ -6,6 +6,8 @@ In contrast, according to the report of ICODA, the online gambling industry has 
 
 So there's room for growth and a market fit for Prediction Markets in the Crypto industry. But they must have to deal with issues of security, complexities of the technology which affects user experience, and a list of other problems.
 
+[ICODA REPORT](https://mygamingsafe.com/icoda-crypto-gambling/)
+
 ---
 
 # 🎲 SOL BET ANYTHING
@@ -91,6 +93,8 @@ So we don’t need another Auth, and you don’t have to worry about your wallet
 ![GqwBkVSXcAAp3th](https://github.com/user-attachments/assets/84fbc347-c648-47d8-bffc-a2ecbeb03ed8)
 
 <br />
+
+[Solana Context Handler](https://github.com/randrew934/sol_bet_anything_dapp/blob/main/src/context/SolanaContext.tsx) | [Create Page](https://github.com/randrew934/sol_bet_anything_dapp/blob/main/src/pages/create/create.tsx) | [Bet Page](https://github.com/randrew934/sol_bet_anything_dapp/blob/main/src/pages/bet/bet.tsx)
 
 ---
 
