@@ -4,17 +4,17 @@
 
 # 📚 TABLE OF CONTENTS
 
-#### PREDICTION MARKETS
+* #### PREDICTION MARKETS
 
-#### SOL BET ANYTHING
+* #### SOL BET ANYTHING
 
-#### SOL BET ANYTHING AND CIVIC AUTH
+* #### SOL BET ANYTHING AND CIVIC AUTH
 
-#### WHY CIVIC AUTH?
+* #### WHY CIVIC AUTH?
 
-#### Civic Auth Implementation Examples
+  * #### Civic Auth Implementation Examples
 
-#### SOL BET ANYTHING GUIDE FOR PLAYERS
+* #### SOL BET ANYTHING GUIDE FOR PLAYERS
 
 
 ---
