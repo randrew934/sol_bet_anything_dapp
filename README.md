@@ -120,4 +120,6 @@ So we don’t need another Auth, and you don’t have to worry about your wallet
 
 More features such as submitting proofs, having a judge of your choice, and withdrawing bet winnings will be made available soon. Till then. Do have fun creating games and placing bet in the new beautiful world of Prediction Markets brought to you by Sol Bet Anything and Civic Auth
 
+[Create a Game](https://solbetanything.netlify.app/create)
+
 
