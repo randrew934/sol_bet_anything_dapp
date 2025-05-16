@@ -111,7 +111,7 @@ So we don’t need another Auth, and you don’t have to worry about your wallet
 
 <br />
 
-#### One of the ideas that we were exploring. And that was giving the User a chance at using their wallet if they had one, before opting for a more cohesive process for everyone.
+#### We were exploring giving the user a chance at using their wallet if they had one, before coming to a decision that a more cohesive process works best for everyone.
 
 ![GqwBkVSXcAAp3th](https://github.com/user-attachments/assets/84fbc347-c648-47d8-bffc-a2ecbeb03ed8)
 
