@@ -206,7 +206,7 @@ function Bet() {
 
   const getGame = async () => {
 
-    setCreateLink(window.location.host + "/create");
+    setCreateLink(window.location.origin + "/create");
 
     const programId = new PublicKey(
       "BtYYc5eyu3Eg1WPsJTE3mh1yXFeknwH4xyqhKL8qRUzW"
@@ -266,7 +266,7 @@ function Bet() {
         setStatus(parseInt(accountData.status?.toString() ?? "0"));
         setDescription(accountData.description);
         setOptions(accountData.options);
-        setBetGameLink(window.location.host + "/" + linkKey);
+        setBetGameLink(window.location.origin + "/" + linkKey);
       }
     } catch (error) {
       navigate("/error/404");

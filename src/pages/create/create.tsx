@@ -300,7 +300,7 @@ https://explorer.solana.com/tx/${signature}?cluster=devnet`);
 
       const listData = await program.account.list.fetch(listPDA);
 
-      const link = window.location.host + "/" + listPDA.toBase58().toString();
+      const link = window.location.origin + "/" + listPDA.toBase58().toString();
       setBetGameKey(listData?.betKey.toString());
       setBetGameLink(link);
       setBetTxLink(
