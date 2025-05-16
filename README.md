@@ -141,6 +141,16 @@ So we don’t need another Auth, and you don’t have to worry about your wallet
 
 👉 Share the link with your friends, fans, followers and community and have fun placing bets. The bet information is also sent to your mail. And every account is allowed only one bet. You can also view this bet information on chain.
 
+#### 📌 But this is where it gets super interesting. 
+
+You can create your own dashboard or pages for the SBA Program, create games and bet on games, and those games can still be accessed on the SBA Bet Page. All you need is  to add the SBA Game List account address for your created game to "https://solbetanything.netlify.app/"
+
+For example, if your SBA Game List account address is 6FtvGWMvBAjMXkW8Pv3ri4wNcBAk3PXmKRhvRZJseEBx.
+
+You can type, "https://solbetanything.netlify.app/6FtvGWMvBAjMXkW8Pv3ri4wNcBAk3PXmKRhvRZJseEBx" to access the game on our bet page.
+
+That's the beautiful thing about being fully onchain and decentralized. 
+
 More features such as submitting proofs, having a judge of your choice, and withdrawing bet winnings will be made available soon. Till then. Do have fun creating games and placing bet in the new beautiful world of Prediction Markets brought to you by Sol Bet Anything and Civic Auth
 
 [Create a Game](https://solbetanything.netlify.app/create)
