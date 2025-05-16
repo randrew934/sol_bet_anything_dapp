@@ -80,7 +80,8 @@ P.S. Sol Bet Anything is still in development, so you need devnet SOL to use the
 We didn't want to go through the stress of singling out Civic Wallet, because we had no reason to use any other wallet such as Phantom, Solflare, Backpack and the others available. But it's amazing to know that the feature is available just in case there's a change in the project direction
 
 
-![Sol Bet Anything - Google Chrome 5_13_2025 5_24_25 PM](https://github.com/user-attachments/assets/1291d8bc-d076-4e8e-926e-64ccb61ba00a)
+![Sol Bet Anything - Google Chrome 5_16_2025 10_40_03 PM](https://github.com/user-attachments/assets/6b8da133-cee8-40d2-81da-c4b328308811)
+
 
 
 ✅ Civic Auth also handles the 2FA. For every transaction that will take your funds, you have to validate the transaction with your mail. You can choose to allow or cancel the transaction. And you receive a verification code to your mail, which has the current location of the account user.
