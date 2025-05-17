@@ -133,7 +133,7 @@ So we don’t need another Auth, and you don’t have to worry about your wallet
 
 👉 Sign in with the Civic Button. You will receive a wallet address and you can also view the balance.
 
-👉 Fund your wallet with devnet SOL.
+👉 Fund your wallet with devnet SOL(https://faucet.solana.com/).
 
 👉 Create a game(If you do want to) or you can copy a game link someone shared and go straight to placing your bets.
 
