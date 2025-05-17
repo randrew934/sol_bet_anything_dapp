@@ -114,6 +114,8 @@ So we don’t need another Auth, and you don’t have to worry about your wallet
 
 #### We were exploring giving the user a chance at using their wallet if they had one, before coming to a decision that a more cohesive process works best for everyone.
 
+<br />
+
 ![GqwBkVSXcAAp3th](https://github.com/user-attachments/assets/84fbc347-c648-47d8-bffc-a2ecbeb03ed8)
 
 <br />
@@ -140,6 +142,12 @@ So we don’t need another Auth, and you don’t have to worry about your wallet
 👉 Verify your transaction and receive your created game link on the page and in your mail(thanks to Civic Auth mail feature). You can also click on the tx link(Transaction Link) to confirm your transaction/game created on chain with a blockchain explorer.
 
 👉 Share the link with your friends, fans, followers and community and have fun placing bets. The bet information is also sent to your mail. And every account is allowed only one bet. You can also view this bet information on chain.
+
+<br />
+
+![Sol Bet Anything - Google Chrome 5_17_2025 5_20_52 AM](https://github.com/user-attachments/assets/4dca0d78-a50f-4aa9-828c-7db5c2ffaf86)
+
+<br />
 
 #### 📌 But this is where it gets super interesting. 
 
