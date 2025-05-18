@@ -98,21 +98,37 @@ So we don’t need another Auth, and you don’t have to worry about your wallet
 
 ## 🖥️ Civic Auth Implementation Examples
 
-#### Implementation in the Solana Context.
+#### ⚙️ Implementation in the Solana Context.
 
 <br />
 
-<img src="https://github.com/user-attachments/assets/136ac931-f1c8-488b-b3db-0e4a2bcf2df9" alt="Image 1"  />
+![sol_bet_anything_dapp_src_context_SolanaContext tsx at main · randrew934_sol_bet_anything_dapp - Google Chrome 5_13_2025 7_08_44 PM](https://github.com/user-attachments/assets/64d0495d-3c63-49e1-aac5-5b6a9cec53cf)
 
-#### Implementation in the Create Game Page.
-
-<br />
-
-<img src="https://github.com/user-attachments/assets/1261338c-97a6-4008-b91b-20c704ece3c9" alt="Image 2" />
+#### ⚙️ Importing the Civic Button and User Contexts from the @Civic/auth-web3 sdk in the Create Game Page.
 
 <br />
 
-#### We were exploring giving the user a chance at using their wallet if they had one, before coming to a decision that a more cohesive process works best for everyone.
+![sol_bet_anything_dapp_src_context_SolanaContext tsx at main · randrew934_sol_bet_anything_dapp - Google Chrome 5_13_2025 7_09_33 PM](https://github.com/user-attachments/assets/c32d0216-f44b-46da-a18f-2ee931d56dfd)
+
+<br />
+
+#### ⚙️ Calling the sendTransaction function provided by the UserContext Wallet to withdraw funds in the Bet Game Page.
+
+<br />
+
+![sol_bet_anything_dapp_src_pages_bet_bet tsx at main · randrew934_sol_bet_anything_dapp - Google Chrome 5_18_2025 5_23_35 AM](https://github.com/user-attachments/assets/3766b608-837c-4293-bfb0-8de35ce46e71)
+
+<br />
+
+#### ⚙️ Using the wallet provided by @civic/auth-web3 sdk to create a provider to make transactions for our SBA Program(Anchor Program) in the Bet Game Page.
+
+<br />
+
+![sol_bet_anything_dapp_src_pages_bet_bet tsx at main · randrew934_sol_bet_anything_dapp - Google Chrome 5_18_2025 5_24_03 AM](https://github.com/user-attachments/assets/59445e1c-e447-4435-89e5-6f634ad5273e)
+
+<br />
+
+#### ⚙️ We were exploring giving the user a chance at using their wallet if they had one, before coming to a decision that a more cohesive process works best for everyone.
 
 <br />
 
