@@ -128,6 +128,15 @@ So we don’t need another Auth, and you don’t have to worry about your wallet
 
 <br />
 
+#### ⚙️ Civic provides not just the user's address, but also the user's mail, which can be used with emailJs(Mailing Service) to send key information to the user's mail. That way, we don't hold users' data in any database. 
+
+<br />
+
+![sol_bet_anything_dapp_README md at main · randrew934_sol_bet_anything_dapp - Google Chrome 5_18_2025 5_49_46 AM](https://github.com/user-attachments/assets/55c765b9-acc8-475e-90b1-dcbeee4f3769)
+
+
+<br />
+
 #### ⚙️ We were exploring giving the user a chance at using their wallet if they had one, before coming to a decision that a more cohesive process works best for everyone.
 
 <br />
